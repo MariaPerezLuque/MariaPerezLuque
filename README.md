@@ -49,9 +49,8 @@ Passionate about building **intuitive digital experiences** and leveraging **AI 
 ###
 ### 🚀 Featured Projects
 
-* **[Bits&Atoms](URL_AQUI):** IoT Web Platform for real-time sensor data visualization.
-* **[InstitutoEuropeo.ai](URL_AQUI):** Web platform with **AI-integrated workflows** and custom UI/UX.
-* **[MatchCota](URL_AQUI):** Collaborative **full-stack adoption platform** built with Agile methodologies.
+* **[InstitutoEuropeo.ai](https://www.institutoeuropeo.ai/):** Web platform with **AI-integrated workflows** and custom UI/UX.
+* **[MatchCota](https://github.com/Caballosanex/MatchCota):** Collaborative **full-stack adoption platform** built with Agile methodologies.
 
 ---
 
