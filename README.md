@@ -4,7 +4,19 @@
 
 ###
 
-<p align="left">Hi there! I'm María 👋<br>I'm a Junior Frontend Developer with a passion for bridging the gap between clean code and intuitive design. I love turning ideas into functional digital realities.<br><br>My daily workflow is a mix of coding, UI/UX design, and leveraging AI as a co-pilot to boost productivity and solve technical challenges faster. I am always curious, eager to learn, and ready to tackle the next big thing.<br><br>🛠 Tech Stack<br>Experienced in relational database design and management (MySQL/Oracle), ensuring efficient and scalable data flow.<br><br>Passionate about building intuitive experiences with React, JavaScript, and Figma.<br><br>Always building, always learning.<br><br>🚀 Featured Projects<br>Bits&Atoms: IoT Web Platform for real-time sensor data visualization.<br><br>InstitutoEuropeo.ai: Web platform with AI-integrated workflows and custom UI/UX.<br><br>MatchCota: Collaborative full-stack adoption platform built with Agile methodologies.<br><br>📈 Let's Connect<br>LinkedIn: https://www.linkedin.com/in/mariaperezluque/<br><br>Portfolio: [Añade aquí tu enlace a Notion o web personal]</p>
+# <h1 align="center">Hi there! I'm María 👋</h1>
+
+**Junior Frontend Developer & UI/UX enthusiast.** Bridging the gap between code and design. Turning ideas into reality. 💡🚀
+
+Passionate about building **intuitive digital experiences** and leveraging **AI as a co-pilot** to boost productivity and solve technical challenges faster. I am always curious, eager to learn, and ready to tackle the next big thing.
+
+---
+
+### 🛠 Tech Stack
+
+* Experienced in **relational database design and management** (MySQL/Oracle), ensuring efficient and scalable data flow.
+* Passionate about building intuitive experiences with **React, JavaScript, and Figma**.
+* Always building, always learning.
 
 ###
 
@@ -35,7 +47,19 @@
 </div>
 
 ###
+### 🚀 Featured Projects
 
+* **[Bits&Atoms](URL_AQUI):** IoT Web Platform for real-time sensor data visualization.
+* **[InstitutoEuropeo.ai](URL_AQUI):** Web platform with **AI-integrated workflows** and custom UI/UX.
+* **[MatchCota](URL_AQUI):** Collaborative **full-stack adoption platform** built with Agile methodologies.
+
+---
+
+### 📈 Let's Connect
+
+* **LinkedIn:** [Maria Pérez Luque](https://www.linkedin.com/in/mariaperezluque/)
+* **Portfolio:** [Añade tu enlace aquí]
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaPerezLuque/MariaPerezLuque/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaPerezLuque/MariaPerezLuque/output/pacman-contribution-graph.svg">
