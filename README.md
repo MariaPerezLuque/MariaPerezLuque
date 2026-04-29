@@ -44,9 +44,3 @@ Bridging the gap between code and design. Passionate about building **intuitive 
 
 * **LinkedIn:** [Maria Pérez Luque](https://www.linkedin.com/in/mariaperezluque/)
 * **Portfolio:** [Añade tu enlace aquí]
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaPerezLuque/MariaPerezLuque/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaPerezLuque/MariaPerezLuque/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MariaPerezLuque/MariaPerezLuque/output/pacman-contribution-graph.svg">
-</picture>
