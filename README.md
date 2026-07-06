@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ab4f7d" />
   <h1>Hi there! I'm María 👋</h1>
 </div>
 
@@ -44,3 +44,9 @@ Bridging the gap between code and design. Passionate about building **intuitive 
 
 * **LinkedIn:** [Maria Pérez Luque](https://www.linkedin.com/in/mariaperezluque/)
 * **Portfolio:** [Añade tu enlace aquí]
+
+<br>
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ab4f7d" />
+</div>
